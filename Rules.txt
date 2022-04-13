@@ -1,0 +1,14 @@
+The Game Of Nim - README
+Created by: Devin Kaltenbaugh
+
+The Controls:
+  W 	- moves the green cursor off of 'steal'
+  A 	- moves the magenta cursor left
+  S	- moves the green cursor onto 'steal'
+  D 	- moves the magenta cursor right
+  Enter - confirms the amount stolen when 'steal' is selected
+
+Objective:
+  Your objective is the take the star located on the right side of the
+	game pieces window. You do this by taking 1, 2 or 3 pieces at
+	a time.
